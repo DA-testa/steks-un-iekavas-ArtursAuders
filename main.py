@@ -1,5 +1,7 @@
 # python3
 
+# Nezinu kāpēc #0 un #5 tests rada ka ir nepareizi, jo šo kodu runnojot eclipse vai visual studio atbildes sakrīt ar gaidīto
+
 from collections import namedtuple
 
 Bracket = namedtuple("Bracket", ["char", "position"])
